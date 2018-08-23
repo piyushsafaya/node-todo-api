@@ -27,7 +27,7 @@ var Todo = mongoose.model('Todo',
 
 module.exports = {
     Todo: Todo
-};
+}
 
 
 // var newTodo = new Todo(
